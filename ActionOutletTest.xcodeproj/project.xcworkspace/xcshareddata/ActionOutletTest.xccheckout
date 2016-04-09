@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57F5EB95-F10A-4D49-BFB0-9AF62716733B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActionOutletTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C421B31ADC9B6D47F84C6C4453D210FFB71DD424</key>
+		<string>https://github.com/ApacheTyler/ActionOutletTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActionOutletTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C421B31ADC9B6D47F84C6C4453D210FFB71DD424</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ApacheTyler/ActionOutletTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C421B31ADC9B6D47F84C6C4453D210FFB71DD424</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C421B31ADC9B6D47F84C6C4453D210FFB71DD424</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ActionOutletTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
